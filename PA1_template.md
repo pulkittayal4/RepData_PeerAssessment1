@@ -43,7 +43,7 @@ rmedian
 ```
 ## [1] 10765
 ```
-
+![](Rplot1.png)<!-- -->
 
 ```r
 ## What is the average daily activity pattern?
@@ -154,3 +154,4 @@ xyplot(StepsTotalUnion$steps ~ StepsTotalUnion$interval|StepsTotalUnion$dow, mai
 ```
 
 ![](PA1_template_files/figure-html/diff_in_activity-1.png)<!-- -->
+![](Rplot4.png)<!-- -->
