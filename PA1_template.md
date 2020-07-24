@@ -45,7 +45,6 @@ rmedian
 ```
 
 
-
 ```r
 ## What is the average daily activity pattern?
 # Make a time series plot (i.e. \color{red}{\verb|type = "l"|}type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)
@@ -64,6 +63,7 @@ max_interval
 ```
 ## [1] 835
 ```
+![](Rplot2.png)<!-- -->
 
 ```r
 ## Imputing missing values
@@ -140,6 +140,7 @@ rmeandiff
 ```
 ## [1] 0
 ```
+![](Rplot3.png)<!-- -->
 
 ```r
 ## Are there differences in activity patterns between weekdays and weekends?
